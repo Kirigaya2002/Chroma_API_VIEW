@@ -1,6 +1,4 @@
-# Chroma_API_VIEW
-Ventana básica para subida de archivo al endpoint de FastAPI existente dentro del proyecto de python.
-# 📁 FileUploaderApp
+# 📁 Chroma_API_VIEW
 
 Una aplicación de escritorio en Java Swing que permite seleccionar múltiples archivos desde el sistema y subirlos a una API a través de HTTP.
 
